@@ -50,7 +50,7 @@ Welcome to my curated collection of **Data Structures and Algorithms** problems 
 - 🔗 **Practice Link**: [LeetCode - Combination Sum](https://leetcode.com/problems/combination-sum/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
-- 🧾 [C++ Solution]()
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/combinationsum.cpp)
 - ☕ [Java Solution]()
   
 
