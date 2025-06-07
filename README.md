@@ -6,7 +6,7 @@ Welcome to my curated collection of **Data Structures and Algorithms** problems 
 
 ## 📌 Table of Contents
 
-- 🔢 [Array](#-array)
+- 🔢 **Array**
 - 🔗 [Linked List](#-linked-list)
 - 🧮 [Stack](#-stack)
 - 📥 [Queue](#-queue)
