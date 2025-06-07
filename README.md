@@ -26,7 +26,17 @@ Welcome to my curated collection of **Data Structures and Algorithms** problems 
 ---
 
 ## 🔢 Array
-- **Remove Duplicates from Sorted Array** - [Practice]()
-Code - [C++](https://github.com/jeevankumar812/DSA-Problems---Jeevan/blob/main/Leetcode/C%2B%2B/Array/removeDuplicates.cpp)
-     - [Java]()
+
+### ✅ Remove Duplicates from Sorted Array
+
+- 🔗 **Practice Link**: [LeetCode - Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Problems---Jeevan/blob/main/Leetcode/C%2B%2B/Array/removeDuplicates.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Problems---Jeevan/blob/main/Leetcode/Java/Array/removeDuplicates.java)
+
+---
+
+
+  
 
