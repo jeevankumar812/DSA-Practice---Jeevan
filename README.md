@@ -37,6 +37,14 @@ Welcome to my curated collection of **Data Structures and Algorithms** problems 
 
 ---
 
+### ✅ Search in Rotated Sorted Array
+
+- 🔗 **Practice Link**: [LeetCode - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution]()
+- ☕ [Java Solution]()
+  
 
   
 
