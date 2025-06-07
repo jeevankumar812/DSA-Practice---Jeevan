@@ -25,4 +25,6 @@ Welcome to my curated collection of **Data Structures and Algorithms** problems 
 
 ---
 
+## 🔢 Array
+**Remove Duplicates from Sorted Array** - [Practice]()
 
