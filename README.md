@@ -6,21 +6,22 @@
 
 ## 📌 **Table of Contents**
 
-- 🔢 **Array** [Practices](#-array)
-- 🔗 **Linked List** [Practices](#-linked-list)
-- 🧮 **Stack** [Practices](#-stack)
-- 📥 **Queue** [Practices](#-queue)
-- 🌲 **Binary Tree** [Practices](#-binary-tree)
-- 📊 **Binary Search Tree** [Practices](#-binary-search-tree)
-- 🎯 **Binary Search** [Practices](#-binary-search)
-- 🧠 **Recursion & Backtracking** [Practices](#-recursion--backtracking)
-- 🧩 **Hash Table** [Practices](#-hash-table)
-- 🎛️ **Greedy Algorithms** [Practices](#-greedy-algorithms)
-- 🔁 **Two Pointer** [Practices](#-two-pointer)
-- 📊 **Sliding Window** [Practices](#-sliding-window)
-- 🕸️ **Graph Algorithms** [Practices](#-graph-algorithms)
-- 🔄 **Dynamic Programming** [Practices](#-dynamic-programming)
-- ⏱️ **Time & Space Complexity** [Practices](#-time--space-complexity)
+- 🔢 **Array** [Problems](#-array)
+- 🔗 **Linked List** [Problems](#-linked-list)
+- 🧮 **Stack** [Problems](#-stack)
+- 📥 **Queue** [Problems](#-queue)
+- 🌲 **Binary Tree** [Problems](#-binary-tree)
+- 📊 **Binary Search Tree** [Problems](#-binary-search-tree)
+- 🎯 **Binary Search** [Problems](#-binary-search)
+- 🧠 **Recursion & Backtracking** [Problems](#-recursion--backtracking)
+- 🧩 **Hash Table** [Problems](#-hash-table)
+- 🎛️ **Greedy Algorithms** [Problems](#-greedy-algorithms)
+- 🔁 **Two Pointer** [Problems](#-two-pointer)
+- 📊 **Sliding Window** [Problems](#-sliding-window)
+- 🕸️ **Graph Algorithms** [Problems](#-graph-algorithms)
+- 🔄 **Dynamic Programming** [Problems](#-dynamic-programming)
+
+
 
 ---
 
