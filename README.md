@@ -45,6 +45,12 @@ Welcome to my curated collection of **Data Structures and Algorithms** problems 
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Problems---Jeevan/blob/main/Leetcode/C%2B%2B/Array/search.cpp)
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Problems---Jeevan/blob/main/Leetcode/Java/Array/search.java)
   
+---
+### ✅ Combination Sum
+- 🔗 **Practice Link**: [LeetCode - Combination Sum](https://leetcode.com/problems/combination-sum/description/?envType=problem-list-v2&envId=array)
 
+📂 **Solutions:**
+- 🧾 [C++ Solution]()
+- ☕ [Java Solution]()
   
 
