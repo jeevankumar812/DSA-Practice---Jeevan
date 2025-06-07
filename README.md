@@ -43,7 +43,7 @@ Welcome to my curated collection of **Data Structures and Algorithms** problems 
 
 📂 **Solutions:**
 - 🧾 [C++ Solution]()
-- ☕ [Java Solution]()
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Problems---Jeevan/blob/main/Leetcode/Java/Array/search.java)
   
 
   
