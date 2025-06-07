@@ -10,17 +10,18 @@ Welcome to my curated collection of **Data Structures and Algorithms** problems 
 - 🔗 **Linked List**
 - 🧮 **Stack**
 - 📥 **Queue**
-- 🌲 **Binary Tree](#-binary-tree)
-- 📊 **Binary Search Tree](#-binary-search-tree)
-- 🎯 **Binary Search](#-binary-search)
-- 🧠 **Recursion & Backtracking](#-recursion--backtracking)
-- 🧩 **Hash Table](#-hashing--hash-table)
-- 🎛️ **Greedy Algorithms](#-greedy-algorithms)
-- 🔁 **Two Pointer / Sliding Window](#-two-pointer--sliding-window)
-- 🕸️ **Graph Algorithms](#-graph-algorithms)
-- 🔄 **Dynamic Programming](#-dynamic-programming)
-- ⏱️ **Time & Space Complexity](#️-time--space-complexity)
-- 🧪 **Practice Sets & Interview Questions](#-practice--interview-questions)
+- 🌲 **Binary Tree**
+- 📊 **Binary Search Tree**
+- 🎯 **Binary Search**
+- 🧠 **Recursion & Backtracking**
+- 🧩 **Hash Table**
+- 🎛️ **Greedy Algorithms**
+- 🔁 **Two Pointer**
+- 📊 **Slinding Window**
+- 🕸️ **Graph Algorithms**
+- 🔄 **Dynamic Programming**
+- ⏱️ **Time & Space Complexity**
+
 
 ---
 
