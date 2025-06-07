@@ -42,7 +42,7 @@ Welcome to my curated collection of **Data Structures and Algorithms** problems 
 - 🔗 **Practice Link**: [LeetCode - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
-- 🧾 [C++ Solution]()
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Problems---Jeevan/blob/main/Leetcode/C%2B%2B/Array/search.cpp)
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Problems---Jeevan/blob/main/Leetcode/Java/Array/search.java)
   
 
