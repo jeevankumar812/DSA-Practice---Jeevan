@@ -1,6 +1,6 @@
 # 📚✨ DSA Problems by Jeevan Kumar
 
-Welcome to my curated collection of **Data Structures and Algorithms** problems solved in various formats (code, concepts, and patterns). This repository helps me master DSA topic by topic with clean code and explanations.
+Welcome to my curated collection of **Data Structures and Algorithms** problems solved in various formats (code, concepts, and patterns). This repository helps me master DSA topic by topic with clean code
 
 ---
 
