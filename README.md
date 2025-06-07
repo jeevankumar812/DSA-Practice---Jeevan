@@ -1,35 +1,28 @@
 # 📚✨ DSA Practices by K Jeevan Kumar
 
-Welcome to my curated collection of **Data Structures and Algorithms** problems solved in various formats (code, concepts, and patterns). This repository helps me master DSA topic by topic with clean code.
-
----
-
-# 📚✨ DSA Practices by K Jeevan Kumar
-
-Welcome to my curated collection of **Data Structures and Algorithms** problems solved in various formats (code, concepts, and patterns). This repository helps me master DSA topic by topic with clean code.
+🚀 Welcome to my curated collection of **Data Structures and Algorithms** problems solved in various formats (code, concepts, and patterns). This repository helps me master DSA topic by topic with clean code.
 
 ---
 
 ## 📌 **Table of Contents**
 
-- 🔢 **[Array](#-array)**
-- 🔗 **[Linked List](#-linked-list)**
-- 🧮 **[Stack](#-stack)**
-- 📥 **[Queue](#-queue)**
-- 🌲 **[Binary Tree](#-binary-tree)**
-- 📊 **[Binary Search Tree](#-binary-search-tree)**
-- 🎯 **[Binary Search](#-binary-search)**
-- 🧠 **[Recursion & Backtracking](#-recursion--backtracking)**
-- 🧩 **[Hash Table](#-hash-table)**
-- 🎛️ **[Greedy Algorithms](#-greedy-algorithms)**
-- 🔁 **[Two Pointer](#-two-pointer)**
-- 📊 **[Slinding Window](#-slinding-window)**
-- 🕸️ **[Graph Algorithms](#-graph-algorithms)**
-- 🔄 **[Dynamic Programming](#-dynamic-programming)**
-- ⏱️ **[Time & Space Complexity](#-time--space-complexity)**
+- 🔢 **Array** [Practices](#-array)
+- 🔗 **Linked List** [Practices](#-linked-list)
+- 🧮 **Stack** [Practices](#-stack)
+- 📥 **Queue** [Practices](#-queue)
+- 🌲 **Binary Tree** [Practices](#-binary-tree)
+- 📊 **Binary Search Tree** [Practices](#-binary-search-tree)
+- 🎯 **Binary Search** [Practices](#-binary-search)
+- 🧠 **Recursion & Backtracking** [Practices](#-recursion--backtracking)
+- 🧩 **Hash Table** [Practices](#-hash-table)
+- 🎛️ **Greedy Algorithms** [Practices](#-greedy-algorithms)
+- 🔁 **Two Pointer** [Practices](#-two-pointer)
+- 📊 **Sliding Window** [Practices](#-sliding-window)
+- 🕸️ **Graph Algorithms** [Practices](#-graph-algorithms)
+- 🔄 **Dynamic Programming** [Practices](#-dynamic-programming)
+- ⏱️ **Time & Space Complexity** [Practices](#-time--space-complexity)
 
 ---
-
 
 
 ## 🔢 Array
