@@ -205,3 +205,13 @@
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/lar_div_sub_set.java)
 
 ---
+
+### ✅ Partition Equal Subset Sum
+
+- 🔗 **Practice Link** : [LeetCode - Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/partition.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/partition.java)
+
+---
