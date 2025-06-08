@@ -62,7 +62,7 @@
 - 🔗 **Practice Link**: [LeetCode - Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
-- 🧾 [C++ Solution]()
-- ☕ [Java Solution]()
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/rotate.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/rotate.java)
 
 ---
