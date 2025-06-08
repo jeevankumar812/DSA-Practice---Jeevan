@@ -185,3 +185,13 @@
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/long_inc.java)
 
 ---
+
+### ✅ Intersection of Two Arrays
+
+- 🔗 **Practice Link** : [LeetCode - Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/intersection.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/intersection.java)
+
+---
