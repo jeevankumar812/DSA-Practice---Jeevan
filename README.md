@@ -66,3 +66,13 @@
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/rotate.java)
 
 ---
+
+### ✅ Set Matrix Zero
+
+- 🔗 **Practice Link**: [LeetCode - Set Matrix Zero]()
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/setZero.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/setZero.java)
+
+--- 
