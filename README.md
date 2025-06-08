@@ -126,9 +126,9 @@
 
 ---
 
-### ✅ Single Numaber
+### ✅ Single Number
 
-- 🔗 **Practice Link**: [LeetCode - Single Numaber](https://leetcode.com/problems/single-number/solutions/3171261/solution/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link**: [LeetCode - Single Number](https://leetcode.com/problems/single-number/solutions/3171261/solution/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/single_n.cpp)
