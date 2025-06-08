@@ -165,3 +165,13 @@
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/misising.java)
 
 ---
+
+### ✅ Find the Duplicate Number
+
+- 🔗 **Practice Link** : [LeetCode - Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/find_dup.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/find_dup.java)
+
+---
