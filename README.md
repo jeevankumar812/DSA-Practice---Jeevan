@@ -29,7 +29,7 @@
 
 ### ✅ Remove Duplicates from Sorted Array
 
-- 🔗 **Practice Link**: [LeetCode - Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- 🔗 **Practice Link** : [LeetCode - Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Problems---Jeevan/blob/main/Leetcode/C%2B%2B/Array/removeDuplicates.cpp)
@@ -39,7 +39,7 @@
 
 ### ✅ Remove Duplicates from Sorted Array II
 
-- 🔗 **Practice Link**: [LeetCode - Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/sort_remove_dup.cpp)
@@ -49,7 +49,7 @@
 
 ### ✅ Search in Rotated Sorted Array
 
-- 🔗 **Practice Link**: [LeetCode - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- 🔗 **Practice Link** : [LeetCode - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Problems---Jeevan/blob/main/Leetcode/C%2B%2B/Array/search.cpp)
@@ -59,7 +59,7 @@
 
 ### ✅ Combination Sum
 
-- 🔗 **Practice Link**: [LeetCode - Combination Sum](https://leetcode.com/problems/combination-sum/)
+- 🔗 **Practice Link** : [LeetCode - Combination Sum](https://leetcode.com/problems/combination-sum/)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/combinationsum.cpp)
@@ -68,7 +68,7 @@
 ---
 ### ✅ Rotate Image
 
-- 🔗 **Practice Link**: [LeetCode - Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/rotate.cpp)
@@ -78,7 +78,7 @@
 
 ### ✅ Set Matrix Zero
 
-- 🔗 **Practice Link**: [LeetCode - Set Matrix Zero](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Set Matrix Zero](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/setZero.cpp)
@@ -88,7 +88,7 @@
 
 ### ✅ Search a 2D Matrix
 
-- 🔗 **Practice Link**: [LeetCode - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/search_2D.cpp)
@@ -98,7 +98,7 @@
 
 ### ✅ Subsets
 
-- 🔗 **Practice Link**: [LeetCode - Subsets](https://leetcode.com/problems/subsets/description/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Subsets](https://leetcode.com/problems/subsets/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/subsets.cpp)
@@ -108,7 +108,7 @@
 
 ### ✅ Best Time to Buy and Sell Stock
 
-- 🔗 **Practice Link**: [LeetCode - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/stock.cpp)
@@ -118,7 +118,7 @@
 
 ### ✅ Gas Station
 
-- 🔗 **Practice Link**: [LeetCode - Gas Station](https://leetcode.com/problems/gas-station/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Gas Station](https://leetcode.com/problems/gas-station/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/gas.cpp)
@@ -128,7 +128,7 @@
 
 ### ✅ Single Number
 
-- 🔗 **Practice Link**: [LeetCode - Single Number](https://leetcode.com/problems/single-number/solutions/3171261/solution/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Single Number](https://leetcode.com/problems/single-number/solutions/3171261/solution/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/single_n.cpp)
@@ -138,7 +138,7 @@
 
 ### ✅ Majority Element
 
-- 🔗 **Practice Link**: [LeetCode - Majority Element](https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Majority Element](https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/majority.cpp)
@@ -148,10 +148,20 @@
 
 ### ✅ Contains Duplicate
 
-- 🔗 **Practice Link**: [LeetCode - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/con_dup.cpp)
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/con_dup.java)
+
+---
+
+### ✅ Missing Number
+
+- 🔗 **Practice Link** : [LeetCode - Missing Number](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/missing.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/misising.java)
 
 ---
