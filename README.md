@@ -265,3 +265,5 @@
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/uniq_n.java)
 
 ---
+
+## 🔗 Linked List
