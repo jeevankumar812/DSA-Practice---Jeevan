@@ -136,4 +136,14 @@
 
 ---
 
+### ✅ Majority Element
+
+- 🔗 **Practice Link**: [LeetCode - Majority Element](https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/majority.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/majority.java)
+
+---
+
 
