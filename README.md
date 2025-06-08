@@ -37,6 +37,16 @@
 
 ---
 
+### ✅ Remove Duplicates from Sorted Array II
+
+- 🔗 **Practice Link**: [LeetCode - Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/sort_remove_dup.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/remove_sort_dup.java)
+
+---
+
 ### ✅ Search in Rotated Sorted Array
 
 - 🔗 **Practice Link**: [LeetCode - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -96,14 +106,15 @@
 
 ---
 
-### ✅ Remove Duplicates from Sorted Array II
+### ✅ Best Time to Buy and Sell Stock
 
-- 🔗 **Practice Link**: [LeetCode - Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link**: [LeetCode - Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
-- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/sort_remove_dup.cpp)
-- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/remove_sort_dup.java)
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/stock.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/stock.java)
 
 ---
+
 
 
