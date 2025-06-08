@@ -69,10 +69,20 @@
 
 ### ✅ Set Matrix Zero
 
-- 🔗 **Practice Link**: [LeetCode - Set Matrix Zero]()
+- 🔗 **Practice Link**: [LeetCode - Set Matrix Zero](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/setZero.cpp)
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/setZero.java)
 
 --- 
+
+### ✅ Search a 2D Matrix
+
+- 🔗 **Practice Link**: [LeetCode - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/search_2D.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/search_2D.java)
+
+---
