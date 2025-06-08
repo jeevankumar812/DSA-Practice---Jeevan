@@ -85,3 +85,13 @@
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/search_2D.java)
 
 ---
+
+### ✅ Subsets
+
+- 🔗 **Practice Link**: [LeetCode - Subsets](https://leetcode.com/problems/subsets/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/subsets.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/subsets.java)
+
+---
