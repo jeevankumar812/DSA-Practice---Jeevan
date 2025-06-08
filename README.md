@@ -116,5 +116,14 @@
 
 ---
 
+### ✅ Gas Station
+
+- 🔗 **Practice Link**: [LeetCode - Gas Station](https://leetcode.com/problems/gas-station/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/gas.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/gas.java)
+
+---
 
 
