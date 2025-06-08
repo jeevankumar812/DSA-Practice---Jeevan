@@ -57,3 +57,12 @@
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/combinationsum.java)
 
 ---
+### ✅ Rotate Image
+
+- 🔗 **Practice Link**: [LeetCode - Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution]()
+- ☕ [Java Solution]()
+
+---
