@@ -235,3 +235,13 @@
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/disap.java)
 
 ---
+
+### ✅ Most Consecutive Ones
+
+- 🔗 **Practice Link** : [LeetCode - Most Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/conc_ones.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/conc_ones.java)
+
+---
