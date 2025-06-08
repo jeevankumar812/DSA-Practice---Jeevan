@@ -267,3 +267,33 @@
 ---
 
 ## 🔗 Linked List
+
+### ✅ Most Consecutive Ones
+
+- 🔗 **Practice Link** : [LeetCode - Most Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/conc_ones.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/conc_ones.java)
+
+---
+
+### ✅ Koko Eating Bananas
+
+- 🔗 **Practice Link** : [LeetCode - Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/koko.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/koko.java)
+
+---
+
+### ✅ Unique Number of Occurences
+
+- 🔗 **Practice Link** : [LeetCode - Unique Number of Occurences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/unique_n.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/uniq_n.java)
+
+---
