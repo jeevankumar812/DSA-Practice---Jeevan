@@ -268,7 +268,7 @@
 
 ### ✅ Find the Numbers With Even Number of Digits
 
-- 🔗 **Practice Link** : [LeetCode - UFind the Numbers With Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=problem-list-v2&envId=array)
+- 🔗 **Practice Link** : [LeetCode - Find the Numbers With Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/?envType=problem-list-v2&envId=array)
 
 📂 **Solutions:**
 - 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/even_n.cpp)
