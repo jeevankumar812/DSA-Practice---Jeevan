@@ -195,3 +195,13 @@
 - ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/intersection.java)
 
 ---
+
+### ✅ Largest Divisible Subset
+
+- 🔗 **Practice Link** : [LeetCode - Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/?envType=problem-list-v2&envId=array)
+
+📂 **Solutions:**
+- 🧾 [C++ Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/C%2B%2B/Array/lar_div_sset.cpp)
+- ☕ [Java Solution](https://github.com/jeevankumar812/DSA-Practice---Jeevan/blob/main/Leetcode/Java/Array/lar_div_sub_set.java)
+
+---
